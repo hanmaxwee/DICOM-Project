@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DCMLIB.VR" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAIAAAAgAEAAAAAAACAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.AE" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.UL" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.OW" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.CxEndian">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BigEndianHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.AS" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.OF" Collapsed="true">
+    <Position X="2.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.OB" Collapsed="true">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.LT" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.LO" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.IS" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.FD" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.FL" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DT" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DS" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DA" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.CS" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.AT" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.SH" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.US" Collapsed="true">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.UT" Collapsed="true">
+    <Position X="6.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.UN" Collapsed="true">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.UI" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.TM" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.ST" Collapsed="true">
+    <Position X="5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.SS" Collapsed="true">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.SQ" Collapsed="true">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.SL" Collapsed="true">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.PN" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.BinaryReaderBE">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAgAAAAAACAAAACAAREQAABAA=</HashCode>
+      <FileName>BigEndianHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
